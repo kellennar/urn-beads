@@ -2,5 +2,14 @@
 title: "Proportion of Red Beads"
 author: Kellen Narke
 format: html
+execute:
+    echo: false
+    warning: false
+    message: false
 ---
 
+
+```{r}
+library(tidyverse)
+# There's a big urn of red and white beads of different sizes. Scoop out samples from it, what ratio of beads are red?
+```
