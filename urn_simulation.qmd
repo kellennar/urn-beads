@@ -1,0 +1,6 @@
+---
+title: "Proportion of Red Beads"
+author: Kellen Narke
+format: html
+---
+
